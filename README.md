@@ -51,7 +51,7 @@ El ecosistema se basa en dos pilares monetarios principales:
 
 ### 🚀 HOJA DE RUTA (ROADMAP)
 
-El plan de expansión, con la arquitectura V2.0 **Production Ready**, se centra en la adopción global:
+El plan de expansión, con la arquitectura V1.0 **Production Ready**, se centra en la adopción global:
 
 *   **2026 Q1-Q2:** Madurez de la infraestructura de Compliance y optimizaciones.
 *   **2026 Q3-Q4:** Lanzamiento **Multi-Fiat** (USD\_gold, EUR\_gold, MXN\_gold) y expansión jurisdiccional.
