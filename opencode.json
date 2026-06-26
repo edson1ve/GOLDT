@@ -1,0 +1,4 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "customInstructions": "Sistema monetario GOLDT: tokens respaldados por oro sintético (XAU/DAI) con oráculo diario, irreversibilidad BNB, sin freeze/blacklist/pause. Foundry + Solidity 0.8.28. Despliegue BSC. Tests: forge test. Documentación metodológica en METODOLOGIA.md."
+}
